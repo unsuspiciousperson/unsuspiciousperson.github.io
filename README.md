@@ -2,7 +2,7 @@ Unsuspicious Person \(stylized as 'unsuspiciousperson', in all lower caps\) is a
 
 ---
 ---
-
+Original Works:
 <table>
   <tr>
     <th>Name</th>
@@ -22,6 +22,7 @@ Unsuspicious Person \(stylized as 'unsuspiciousperson', in all lower caps\) is a
 </table>
 
 
+Derivative Works:
 <table>
   <tr>
     <th>Name</th>
