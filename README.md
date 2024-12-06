@@ -1,4 +1,5 @@
-Unsuspicious Person \(stylized as 'unsuspiciousperson', in all lower caps\) is an internet user<sup>\[[1](https://unsuspiciousperson.itch.io/)\]\[[2](https://twitter.com/unsuspiciouspe1)\]\[[3](https://mas.to/@unsuspiciousperson)\]</sup>.
+<body style="background-color:powderblue;">
+Unsuspicious Person (stylized as 'unsuspiciousperson', in all lower caps) is an internet user.<sup><a href="https://unsuspiciousperson.itch.io">[1]</a><a href="https://twitter.com/unsuspiciouspe1">[2]</a><a href="https://mas.to/@unsuspiciousperson">[3]</a></sup>
 
 ---
 ---
@@ -40,6 +41,8 @@ Derivative Works:
     <td><a href="https://unsuspiciousperson.itch.io/peace-of-mind-and-more">Get here</a></td>
   </tr>
 </table>
+
+</body>
 
 Continual works:
 [Tumblr Blog](https://quadruple-u.tumblr.com/)
