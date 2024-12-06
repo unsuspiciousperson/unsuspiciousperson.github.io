@@ -4,6 +4,24 @@ Unsuspicious Person \(stylized as 'unsuspiciousperson', in all lower caps\) is a
 ---
 ---
 
+<table>
+  <tr>
+    <th>Name</th>
+    <th>Description</th>
+    <th>Link</th>
+  </tr>
+  <tr>
+    <td>This Is Clearly Impossible</td>
+    <td>a puzzle game about impossibility</td>
+    <td><a href="https://unsuspiciousperson.itch.io/this-is-clearly-impossible">Play now</a></td>
+  </tr>
+  <tr>
+    <td>METRONOME</td>
+    <td>grid-based puzzle/precision platformer</td>
+    <td><a href="https://unsuspiciousperson.itch.io/metronome">Play now</a></td>
+  </tr>
+</table>
+
 Individual bodies of work:
 | Name | Description | Link |
 | ----------- | ----------- | ----------- |
