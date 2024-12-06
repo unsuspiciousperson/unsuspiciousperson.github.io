@@ -22,19 +22,25 @@ Unsuspicious Person \(stylized as 'unsuspiciousperson', in all lower caps\) is a
   </tr>
 </table>
 
-Individual bodies of work:
-| Name | Description | Link |
-| ----------- | ----------- | ----------- |
-| This Is Clearly Impossible | a puzzle game about impossibility | [0](https://unsuspiciousperson.itch.io/this-is-clearly-impossible) |
-| METRONOME | grid-based puzzle/precision platformer | [0](https://unsuspiciousperson.itch.io/metronome) |
+
+<table>
+  <tr>
+    <th>Name</th>
+    <th>Description</th>
+    <th>Link</th>
+  </tr>
+  <tr>
+    <td>Upgraded Rules</td>
+    <td>Dicey Dungeons difficulty increase mod</td>
+    <td><a href="https://unsuspiciousperson.itch.io/upgraded-rules">Get here</a></td>
+  </tr>
+  <tr>
+    <td>Peace Of Mind and More</td>
+    <td>variety Dicey Dungeons mod</td>
+    <td><a href="https://unsuspiciousperson.itch.io/peace-of-mind-and-more">Get here</a></td>
+  </tr>
+</table>
 
 Continual works:
 [Tumblr Blog](https://quadruple-u.tumblr.com/)
-
-
-Non-original works:
-| Name | Description | Link |
-| ----------- | ----------- | ----------- |
-| Upgraded Rules | Dicey Dungeons difficulty increase mod | [0](https://unsuspiciousperson.itch.io/upgraded-rules) |
-| Peace Of Mind and More | variety Dicey Dungeons mod | [0](https://unsuspiciousperson.itch.io/peace-of-mind-and-more) |
 
