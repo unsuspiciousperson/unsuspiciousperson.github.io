@@ -42,8 +42,7 @@ Derivative Works:
   </tr>
 </table>
 
-</body>
-
 Continual works:
-[Tumblr Blog](https://quadruple-u.tumblr.com/)
+<a href="https://quadruple-u.tumblr.com/">Tumblr</a>
 
+</body>
