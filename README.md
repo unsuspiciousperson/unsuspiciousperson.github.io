@@ -1,3 +1,4 @@
+<html>
 <body style="background-color:powderblue;">
 Unsuspicious Person (stylized as 'unsuspiciousperson', in all lower caps) is an internet user.<sup><a href="https://unsuspiciousperson.itch.io">[1]</a><a href="https://twitter.com/unsuspiciouspe1">[2]</a><a href="https://mas.to/@unsuspiciousperson">[3]</a></sup>
 
@@ -23,9 +24,9 @@ Original Works:
     <td><a href="https://unsuspiciousperson.itch.io/metronome">Play now</a></td>
   </tr>
   <tr>
-    <td>????'? ??</td>
-    <td>[...]</td>
-    <td><a href="https://example.com">Play now</a></td>
+    <td>Sightseer's Lament</td>
+    <td>short puzzle game about vision</td>
+    <td><a href="https://unsuspiciousperson.itch.io/sightseers-lament">Play now</a></td>
   </tr>
 </table>
 
@@ -53,3 +54,4 @@ Other contact:
 <a href="https://quadruple-u.tumblr.com/">Tumblr</a>
 
 </body>
+</html>
